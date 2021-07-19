@@ -1,0 +1,30 @@
+{
+"name": "SW25",
+"title": "Sword World 2.5"
+"description": "1.0"
+"version": "1.0.0"
+"author": "elu_jaune",
+"scripts":[],
+"esmodules": "sw25.jp",
+"styles": ["sw25.css"],
+"packs": [
+
+],
+"launguages": [
+  {
+    "lang": "ja",
+    "name": "Japanese",
+    "path": "lang/ja.json"
+  }
+],
+
+"socket": true,
+"gridDistance": 5,
+"gridUnits": "ft",
+"primaryTokenAttribute": "attributes.hp",
+"minimumCoreVersion": "0.7.6"
+"compatibleCoreVersion": "0.7.9"
+"url": "https://github.com/"
+"manifest": "",
+"download": ""
+}
